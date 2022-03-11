@@ -12,8 +12,7 @@ optional arguments:
   --headless HEADLESS   Whether to display the browser interface
   --devtools DEVTOOLS   Whether to enable development and debugging
   --login LOGIN         import login script path,E.g --login oa_login.py
-  --chrome_path CHROME_PATH
-                        configure the chrome path
+  --chrome_path CHROME_PATH   configure the chrome path
   --proxy PROXY         Network proxy mode,E.g http://127.0.0.1:8089 or socks5://127.0.0.1:10808
   --trace TRACE         Track the crawling process for replay,E.g trace_test.zip
   --out_xls OUT_XLS     result to output .xls
